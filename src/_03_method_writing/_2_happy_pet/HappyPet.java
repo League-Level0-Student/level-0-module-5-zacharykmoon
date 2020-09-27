@@ -1,11 +1,11 @@
-package _03_method_writing._2_happy_pet;
+=package _03_method_writing._2_happy_pet;
 import javax.swing.JOptionPane;
 
 public class HappyPet {
 	
 	// 2. Add the following variable to the next line: static int happinessLevel = 0;
 	// this will be used to store the happiness of your pet
-	
+	String happyiness = 
 	public static void main(String[] args) {
 		// 1. Ask the user what kind of pet they want to buy, and store their answer in a variable
 
